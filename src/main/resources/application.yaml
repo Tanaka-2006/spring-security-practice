@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: sec
+
+  security:
+    user:
+      name: Tanaka
+      password: Murerwa@22
